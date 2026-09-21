@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Talent+Development+Executive;Career+Mentor;CSE+Graduate+%7C+Tech+Enthusiast;Web+Development+Enthusiast;Always+Learning+%26+Growing"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Talent+Development+Executive;Career+Mentor;CSE+Student+%7C+Tech+Enthusiast;Web+Development+Enthusiast;Always+Learning+%26+Growing"
     alt="Typing SVG"
   />
 </p>
