@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Talent Development Executive** with a background in **Computer Science & Engineering**, passionate about connecting technology, learning, and career development.
 
@@ -45,9 +45,9 @@ Alongside my professional work in talent development, I continue to explore **so
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
-### 🎯 Talent Development
+###  Talent Development
 
 - Learner skill-gap analysis
 - Career guidance and mentoring
@@ -66,7 +66,7 @@ Alongside my professional work in talent development, I continue to explore **so
 - CV/Resume and LinkedIn profile guidance
 - Tracking candidate progress throughout the hiring journey
 
-### 💻 Technical Background
+###  Technical Background
 
 - Programming fundamentals
 - Web development fundamentals
@@ -77,9 +77,9 @@ Alongside my professional work in talent development, I continue to explore **so
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p align="left">
   <img
@@ -108,7 +108,7 @@ Alongside my professional work in talent development, I continue to explore **so
   />
 </p>
 
-### 🌐 Web Technologies
+###  Web Technologies
 
 <p align="left">
   <img
@@ -148,7 +148,7 @@ Alongside my professional work in talent development, I continue to explore **so
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img
@@ -174,7 +174,7 @@ Alongside my professional work in talent development, I continue to explore **so
 
 ---
 
-## 📌 What I'm Working On
+##  What I'm Working On
 
 - 🌱 Improving my technical and professional skills
 - 💼 Supporting learners in becoming job-ready
@@ -185,7 +185,7 @@ Alongside my professional work in talent development, I continue to explore **so
 
 ---
 
-## 🎯 Professional Interests
+##  Professional Interests
 
 <p align="center">
 
@@ -197,7 +197,7 @@ Alongside my professional work in talent development, I continue to explore **so
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
 
