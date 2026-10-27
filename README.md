@@ -1,4 +1,4 @@
-# Hi there! I'm Suba Nahian 👋
+# Hi there! I'm Suba Nahian 
 
 ### Talent Development Executive | Career Mentor | Tech Enthusiast
 
@@ -57,7 +57,7 @@ Alongside my professional work in talent development, I continue to explore **so
 - Career roadmap development
 - Technical profile improvement
 
-### 🤝 Career & Job Placement
+###  Career & Job Placement
 
 - Connecting learners with relevant opportunities
 - Recruiter and company outreach
